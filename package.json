@@ -1,0 +1,11 @@
+{
+  "name": "webpack-rn-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hufeng/webpack-rn-loader.git",
+  "author": "hufeng <hufeng@qianmi.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^3.4.1"
+  }
+}
